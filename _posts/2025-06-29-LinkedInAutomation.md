@@ -25,11 +25,11 @@ Automating your LinkedIn job search can save hours of manual effort, help you di
 
 ## What is Apify?
 
-**Apify** is a cloud-based platform for web automation and scraping. It lets you build, schedule, and run web scrapers (called “actors”) without needing to manage your own infrastructure. Apify provides ready-made actors for popular sites—including LinkedIn—and supports custom scripts for advanced use cases. You can extract job listings, company data, and more, then export results to formats like JSON, CSV, or directly to Google Sheets or other apps[6].
+[**Apify**](https://apify.com) is a cloud-based platform for web automation and scraping. It lets you build, schedule, and run web scrapers (called “actors”) without needing to manage your own infrastructure. Apify provides ready-made actors for popular sites—including LinkedIn—and supports custom scripts for advanced use cases. You can extract job listings, company data, and more, then export results to formats like JSON, CSV, or directly to Google Sheets or other apps[6].
 
 ## What is Zapier?
 
-**Zapier** is an automation tool that connects your favorite apps and services without any coding. By creating “Zaps,” you can automate workflows such as sending scraped job data from Apify directly into Google Sheets, Slack, or your email. Zapier acts as the glue between Apify and your daily tools, enabling seamless, real-time updates to your job search database.
+[**Zapier**](https://zapier.com) is an automation tool that connects your favorite apps and services without any coding. By creating “Zaps,” you can automate workflows such as sending scraped job data from Apify directly into Google Sheets, Slack, or your email. Zapier acts as the glue between Apify and your daily tools, enabling seamless, real-time updates to your job search database.
 
 ## My Automated Pipeline
 
@@ -37,7 +37,7 @@ Here’s a high-level overview of the workflow I set up:
 
 1. **Define Search Criteria:**  
    Set up Apify’s LinkedIn Jobs Scraper to search for your desired keywords, locations, and job types.
-   Apify use what they call an "Actor" to build the scraping workflow. An Actor is essentially a serverless cloud program—think of it as a micro-service or cloud app you write once and then run on Apify’s infrastructure. There are many different pre-made Actors, I ended up using "AI Linkedin Job Matcher" - https://console.apify.com/actors/0tYWyTvxt367lXwWG/input which fit my requirements and was cheap enough ($5.00/1000 jobs = $0.0005 per job result, my keyword was specific enough to get around ~100 results per week which was within budget for Apify's monthly free credit of $5.00.
+   Apify use what they call an "Actor" to build the scraping workflow. An Actor is essentially a serverless cloud program—think of it as a micro-service or cloud app you write once and then run on Apify’s infrastructure. There are many different pre-made Actors, I ended up using ["AI Linkedin Job Matcher"](https://console.apify.com/actors/0tYWyTvxt367lXwWG/input) - which fit my requirements and was cheap enough ($5.00/1000 jobs = $0.0005 per job result, my keyword was specific enough to get around ~100 results per week which was within budget for Apify's monthly free credit of $5.00.
    ![alt text](/assets/img/screenshots/20250629/linkedin_scraper.png)
 
 2. **Run the Scraper:**  
