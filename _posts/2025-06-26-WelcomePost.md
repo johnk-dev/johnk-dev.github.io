@@ -3,7 +3,6 @@ title: Here's My First Post!
 date: 2025-06-24 18:00:00 +0900
 categories: [LIFE, MISC]
 tags: [life, welcome, jeykyll, blog]     # TAG names should always be lowercase
-author: jkang
 pin: true  # Optional: pin this post to the top
 comments: true
 toc: true  # Table of contents

@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Kangception # the main title
 
-tagline: Debugging life, one stack trace at a time # it will display as the subtitle
+tagline: Debugging My Recursive Life # it will display as the subtitle
 
 description: # used by seo meta and the atom feed
   Recursive thoughts from a technologist who probably should be doing something else.
