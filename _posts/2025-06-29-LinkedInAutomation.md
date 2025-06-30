@@ -1,9 +1,11 @@
 ---
 title: "Automated LinkedIn Job Scraping with Apify and Zapier"
 date: 2025-06-26
-author: John K.
 categories: [Automation, Job Search]
 tags: [LinkedIn, Apify, Zapier, scraping, automation]
+pin: true  # Optional: pin this post to the top
+comments: true
+toc: true  # Table of contents
 ---
 
 After recently re-entering the job market, I quickly realized how challenging it is to search for industry-specific keywords on LinkedIn. LinkedIn’s search functionality is intentionally limited: results are pulled only from three indexed fields—job title, company, and a general keywords field (which itself is just a combination of title, skills, location, and seniority). This means you can’t reliably search within the full job description, forcing users like me to spend hours each week manually scrolling through hundreds or even thousands of postings in search of relevant opportunities.
@@ -42,11 +44,11 @@ Here’s a high-level overview of the workflow I set up:
    Schedule Apify to run daily, weekly or monthly, collecting new job postings that match your criteria. I chose weekly which was a good frequency for my case.
 
 3. **Save Data to Google Drive to be used by Zapier:**  
-   Use Apify’s integrations or webhooks to send or share the scraped job data to Zapier. I ended up using the Google Drive integration, loading all job results to a Google sheet as a CSV. Zapier itself also has a Apify Zap which allows you to get results directly within Zapier's interface without the need to deal with Google Drive but I ran into a Zapier’s Apify integration limitation which flattens arrays into strings, which breaks structured data. The only option available then were Webhooks which is a Zapier premium feature or passing the data as a JSON string and parsing it in the Zapier Code step. I chose the latter of the two. 
+   Use Apify’s integrations or webhooks to send or share the scraped job data to Zapier. I ended up using the Google Drive integration, loading all job results to a Google sheet as a CSV. Zapier itself also has an Apify integration step which allows you to get results directly within Zapier's interface without the need to deal with Google Drive but you will run into a limitation if you take this route which flattens arrays into strings and breaks structured data. The only option available then were Webhooks which is a Zapier premium feature or passing the data as a JSON string and parsing it in the Zapier Code step. I chose the latter method for its cost efficiency. 
    ![alt text](/assets/img/screenshots/20250629/zapier.png)
 
 4. **Use Zapier to Transform the CSV and Automate Delivery:**  
-   I started with a Google Drive Zap on Zapier that monitors a directory for new files, then a Zap to read in the new file as text, passing that to a Javascript code runner which takes and parses the incoming CSV text then builds a HTML table along with the header. The final table is then sent to my email using the Gmail's Send Email Event.
+   I started with a Google Drive step on Zapier that monitors a directory for new files, then a Files By Zapier step to read in the new file as text, passing that to a Code by Zapier step with Javascript code runner which takes and parses the incoming CSV text then builds a HTML table along with the header. The final HTML table is then sent to my email using the Gmail step's Send Email Event.
    ![alt text](/assets/img/screenshots/20250629/final_email.png)
 
 The result? No more manual scrolling. I now have a living, searchable database of jobs tailored to my needs, updated and sent as an weekly email automatically.

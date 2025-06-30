@@ -7,6 +7,7 @@ permalink: /about/
 # About Me
 
 Hello! 👋 I’m John, a passionate technical consultant, web developer, AI enthusiast, and lifelong learner.
+I'm currently living in South Korea, after spending most of my adult life back in the US. 
 
 I created this blog to keep a record of and share my experiences and insights on my technical adventures, web development, and just about anything in life. Whether you’re just starting out or a seasoned technologist, I hope you’ll find something useful or inspiring here.
 
