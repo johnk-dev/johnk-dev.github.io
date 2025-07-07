@@ -69,7 +69,7 @@ Both platforms are great depending on your goals:
 - Notion is awesome for quickly publishing clean, shareable content without worrying about code.
 - GitHub Pages (with Jekyll) is ideal for devs, tech bloggers, and people who care about versioning, structure, and total control.
 
-In the end, I chose GitHub Pages with Jekyll for my blog because it gave me full control over the design and let me fully own my content — no platform lock-in. That said, there was a bit of a learning curve: getting comfortable with Git, Markdown, and Jekyll's structure took some time. Unlike modern editors, Jekyll doesn’t come with a visual interface — writing posts means manually formatting everything yourself (e.g. bold text, headers, lists) which should be a huge deal breaker to many.
+In the end, I chose GitHub Pages with Jekyll for my blog because it gave me full control over the design and let me fully own my content — no platform lock-in. That said, there was a bit of a learning curve: getting comfortable with Git (which I already was), Markdown, and Jekyll's structure took some time (a day or two). Unlike modern editors, Jekyll doesn’t come with a visual interface — writing posts means manually formatting everything yourself (e.g. bold text, headers, lists) which should be a huge deal breaker to many.
 
 On the other hand, Notion provides a smooth, block-style writing experience and is great for quick publishing. But Notion lacked the customized look that I really wanted, so instead of using it for my blog, I repurposed it to host my online résumé, which you can check out [here](https://believed-rainbow-38c.notion.site/John-Ju-Hyong-Kang-217b26f7e54f807b9728d094bcc5f639).
 
