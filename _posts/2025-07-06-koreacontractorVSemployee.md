@@ -3,7 +3,7 @@ title: "Contractor vs. Employee in Korea: What Foreign Workers Should Know"
 date: 2025-07-06 22:30:00 +0900
 categories: [Work, Korea]
 tags: [freelancing, expat, korea, tax, employment, visa]
-pin: false
+pin: true
 ---
 
 > If you're a foreigner working in South Korea (with the proper visa), you're often faced with two options: work as a **salaried employee** or as an **individual contractor**. Both have pros and cons — especially when it comes to taxes, social insurance, and stability. I recently came across these options myself and had to make a choice, here's a breakdown based on my own experience and research.
@@ -55,16 +55,32 @@ pin: false
 - If you work **>15 hours/week for over 1 year**, you *should* legally qualify for severance under Korean labor law — even as a part-timer. Contractors do **not** qualify.
 - Being paid in **USD to a U.S. bank account** does *not* exempt you from Korean tax if you're a Korean resident.
 
-## 🧮 7. Income Example: $110K USD
+## 📊 $90K Employee vs $100K Contractor Comparison
 
-|                        | Salaried Employee (KR) | Contractor (KR)      |
-|------------------------|------------------------|-----------------------|
-| Gross Salary           | $110,000               | $110,000              |
-| Social Insurance       | ~9–10% (split with company) | ~18–20% (all yours) |
-| Income Tax             | Withheld monthly       | Paid annually         |
-| Take-home Pay          | Lower monthly, fewer surprises | Higher monthly, more admin |
-| Severance              | ✅ Yes (after 1 year)   | ❌ No                 |
-| Business Deductions    | ❌ None                | ✅ Yes                |
+| Category                    | **Salaried Employee ($90K)**     | **Contractor ($100K)**            |
+|----------------------------|----------------------------------|-----------------------------------|
+| 💰 **Annual Gross**        | $90,000                          | $100,000                          |
+| 🧾 **Social Insurance**     | ~$8,000 (split 50/50)            | ~$16,000 (100% self-paid)         |
+| 💵 **Estimated Income Tax** | ~$6,000                          | ~$9,000                           |
+| 💼 **Severance (퇴직금)**   | ✅ +$7,500 (after 1 year)         | ❌ None                            |
+| 💸 **Net Income (Year)**   | **~$76,000**                     | **~$75,000**                      |
+| 💰 **Monthly Take-Home**   | **~$6,330**                      | **~$6,250**                       |
+| ⏱ **Hourly Net Rate**      | ~$41.30                          | ~$40.80                           |
+
+Notice $100,000 Contractor actually nets less after everything's said and done.
+---
+
+## 🧠 Key Takeaways
+
+- The **contractor needs ~$10K more in gross income** just to break even with a salaried employee.
+- Even with a higher hourly rate, the **lack of severance and full burden of social insurance** reduces real earnings.
+- The salaried employee also enjoys:
+  - Simpler tax filing (withholding)
+  - 4대보험 with 50% employer coverage
+  - Paid leave and job stability
+- Contractors gain flexibility and potential expense deductions, but at the cost of admin overhead and no labor protections.
+
+---
 
 
 ## 🧭 Final Thoughts
