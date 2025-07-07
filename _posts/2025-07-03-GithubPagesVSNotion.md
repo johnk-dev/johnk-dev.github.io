@@ -6,7 +6,7 @@ tags: [notion, jekyll, github pages, blogging, comparison]
 pin: true
 ---
 
-> I finally decided to give blogging a try - and had two popular platforms to try, Notion and GitHub Pages. I’ve tried both **Notion** and **GitHub Pages (with Jekyll)** to publish blog content — here’s what I learned, and when you might want to use one over the other.
+> I finally decided to give blogging a shot and narrowed it down to two popular options: **Notion** and **GitHub Pages (with Jekyll)**. After trying both, here’s what I learned — and when each one might be the better choice.
 
 ## ✨ TL;DR
 
@@ -77,4 +77,4 @@ On the other hand, Notion provides a smooth, block-style writing experience and 
 
 ---
 
-Got a favorite workflow? Let me know!
+Got a favorite workflow? Let me know in the comments below!
