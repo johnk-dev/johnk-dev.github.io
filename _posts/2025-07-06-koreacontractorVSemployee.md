@@ -8,16 +8,12 @@ pin: false
 
 > If you're a foreigner working in South Korea (with the proper visa), you're often faced with two options: work as a **salaried employee** or as an **individual contractor**. Both have pros and cons — especially when it comes to taxes, social insurance, and stability. I recently came across these options myself and had to make a choice, here's a breakdown based on my own experience and research.
 
----
-
 ## 🧾 1. The Basics
 
 | Role Type         | Description                                              |
 |-------------------|----------------------------------------------------------|
 | **Salaried Employee** | Hired under a Korean labor contract with 4대보험 (social insurances), income tax withholding, and labor protections |
 | **Individual Contractor (개인사업자 or freelancer)** | Self-employed; typically issues tax invoices (세금계산서) and pays own taxes/insurance |
-
----
 
 ## ✅ 2. Benefits of Being a Salaried Employee
 
@@ -31,15 +27,11 @@ pin: false
 - **Eligible for severance (퇴직금)** if employed >1 year you get a certain amount of severance pay based on your duration of employeedment, avg monthly salary, etc. This is actually huge as it can get from thousands to hundreds of thousands depending on tenure. 
 - More stable, easier for **bank loans**, **visas**, and **housing**
 
----
-
 ## ⚠️ 3. Downsides of Being an Employee
 
 - Slightly **lower take-home pay**
 - Fixed working hours, office culture expectations
 - More documentation if working for a foreign entity (via Employer of Record)
-
----
 
 ## 🧾 4. Being a Contractor in Korea
 
@@ -50,8 +42,6 @@ pin: false
 - Can **deduct business expenses** (e.g., home office, coworking, internet, phone, etc.)
 - More flexibility and **higher hourly rate** (usually)
 
----
-
 ## 🚨 5. But Watch Out for These Contractor Pitfalls
 
 - ❌ **No severance pay or unemployment insurance**
@@ -59,15 +49,11 @@ pin: false
 - ❌ Social insurance costs can be **double** what employees pay
 - ❌ Some companies may *treat you like an employee* without the benefits (aka “disguised employment”)
 
----
-
 ## 💡 6. Legal Gray Zones & Real-Life Scenarios
 
 - Some foreign companies use platforms like **Globalization Partners**, **Remote**, or **Deel** to hire Korean-based workers as contractors — this may **limit benefits** even if you work full-time hours.
 - If you work **>15 hours/week for over 1 year**, you *should* legally qualify for severance under Korean labor law — even as a part-timer. Contractors do **not** qualify.
 - Being paid in **USD to a U.S. bank account** does *not* exempt you from Korean tax if you're a Korean resident.
-
----
 
 ## 🧮 7. Income Example: $110K USD
 
@@ -80,7 +66,6 @@ pin: false
 | Severance              | ✅ Yes (after 1 year)   | ❌ No                 |
 | Business Deductions    | ❌ None                | ✅ Yes                |
 
----
 
 ## 🧭 Final Thoughts
 
