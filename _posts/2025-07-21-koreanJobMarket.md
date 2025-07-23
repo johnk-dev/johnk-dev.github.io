@@ -5,6 +5,7 @@ layout: post
 tags: [job market, Korea, foreigners, careers, visa]
 categories: [Career]
 comments: true
+pin: true
 ---
 
 > 💼 A quick guide for foreigners who want to work in Korea — outside of English teaching.
@@ -73,16 +74,16 @@ Most foreigners associate working in Korea with English teaching jobs. But beyon
 
 ### ✅ English-Friendly Platforms
 - [LinkedIn](https://www.linkedin.com/jobs/)
-- [RocketPunch](https://www.rocketpunch.com/)
-- [Korea4Expats](https://www.korea4expats.com/)
+- [PeopleNJob](https://www.peoplenjob.com/)
 - [Seoul Global Center Jobs](https://global.seoul.go.kr/)
-- [HiKorea](https://www.hikorea.go.kr/)
+- [Upwork](https://www.upwork.com) - for Korean remote jobs
 
 ### 🔍 Korean-Language Job Sites
 *(Use Chrome Translate if needed)*
 - [잡코리아 (JobKorea)](https://www.jobkorea.co.kr/)
 - [사람인 (Saramin)](https://www.saramin.co.kr/)
 - [Wanted](https://www.wanted.co.kr/)
+- [RocketPunch](https://www.rocketpunch.com/)
 
 > 🔎 Tip: Use search terms like "외국인 채용", "외국계기업", or "영어 가능" to filter jobs open to foreigners.
 
